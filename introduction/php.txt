@@ -1,0 +1,45 @@
+php
+all over the internet
+PHP:Hypertext Preprocessor
+serverside programming language eg. apache 
+Scripting language
+embedded with html
+.php
+interact with database eg.mysql,files
+secure we cant see in browser
+
+why php?
+easy to learn
+free and open source
+cross platform eg. windows,linux,mac,etc..
+support and freedom
+etc...
+ 
+ what php can do?
+ access control
+ encrypt data-> decrept data
+create dynamic page content
+send/receive cookies
+collect/process forms
+commicate with files/database
+
+what you can do with php?
+basic websites, blogs
+
+social networks,shopping websites
+content mangagement systems
+search engines,backend APIs
+software: xampp
+text editor: sublime,vs code,nodebad++
+
+//comments
+#hii
+/*
+njrgjgggm
+*/        morethan comments usage
+
+arrays, loops,styles, functions
+
+
+
+
