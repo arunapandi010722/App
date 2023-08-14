@@ -1,7 +1,7 @@
 <?php 
-    echo "Welcome to All";
-    echo "<br> My Calculator App<br> <br> Ender the details";
- if(isset($_POST['cal']))
+    echo '<h1>Welcome to all</h1>';
+    echo " My Calculator App<br> <br> Ender the details";
+ if(isset($_POST['cal']));
  {
     $txt1=$_POST['x'];
     $txt2=$_POST['y'];
